@@ -1,6 +1,8 @@
 /*********************************************************************
- Tim Bass - This is an example of using NeoPixel Digital LED Strip 
- from Adafruit and bringing up an ambient work light upon power on.
+ This is an example of using NeoPixel Digital LED Strip from Adafruit 
+ and bringing up an ambient work light upon power on.
+
+ Copyright (c) 2017 Tim Bass
 
  MIT license, check LICENSE for more information
  All text above, and the splash screen below must be included in

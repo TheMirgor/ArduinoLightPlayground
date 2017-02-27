@@ -1,3 +1,15 @@
+/*********************************************************************
+ This is an example of using NeoPixel Digital LED Strip from Adafruit 
+ and running a digital audio input through a FFT in order to drive the
+ LED strip from music.  This displays 5 channels of audio visually.
+
+ Copyright (c) 2017 Tim Bass
+
+ MIT license, check LICENSE for more information
+ All text above, and the splash screen below must be included in
+ any redistribution
+*********************************************************************/ 
+
 #include <fix_fft.h>
 #include <SPI.h>
 #include <Adafruit_NeoPixel.h>

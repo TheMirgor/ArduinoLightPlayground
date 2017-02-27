@@ -1,3 +1,15 @@
+/*********************************************************************
+ This is an example of using NeoPixel Digital LED Strip from Adafruit 
+ and running a digital audio input through a FFT in order to drive the
+ LED strip from music. Added some additional logic for performance.
+
+ Copyright (c) 2017 Tim Bass
+
+ MIT license, check LICENSE for more information
+ All text above, and the splash screen below must be included in
+ any redistribution
+*********************************************************************/ 
+
 #include "FastLED.h"
 #include <fix_fft.h>
 

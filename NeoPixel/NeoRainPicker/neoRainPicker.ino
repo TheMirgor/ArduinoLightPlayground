@@ -1,4 +1,17 @@
 /*********************************************************************
+ This is an example of using NeoPixel Digital LED Strip from Adafruit 
+ and running a digital audio input through a FFT in order to drive the
+ LED strip from music.  I used the Adafruit Bluefruit LE module to
+ switch between patterns being displayed so including Adafruit MIT
+ licensing information below
+
+ Copyright (c) 2017 Tim Bass
+
+ MIT license, check LICENSE for more information
+ All text above, and the splash screen below must be included in
+ any redistribution
+ 
+ 
  This is an example for our nRF51822 based Bluefruit LE modules
 
  Pick one up today in the adafruit shop!

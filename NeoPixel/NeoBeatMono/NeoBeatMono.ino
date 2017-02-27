@@ -1,3 +1,17 @@
+/*********************************************************************
+ This is an example of using NeoPixel Digital LED Strip from Adafruit 
+ and reading an audio value from the LEFT_CHANNEL.  Based on the value
+ read it is then sent through a color wheel in order to determine a
+ color to display from the center.  All existing colors will be
+ shifted outward before adding the new color to the display.
+
+ Copyright (c) 2017 Tim Bass
+
+ MIT license, check LICENSE for more information
+ All text above, and the splash screen below must be included in
+ any redistribution
+*********************************************************************/
+
 #include <SPI.h>
 #include <Adafruit_NeoPixel.h>
 

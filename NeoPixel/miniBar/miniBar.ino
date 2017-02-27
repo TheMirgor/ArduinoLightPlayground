@@ -1,5 +1,5 @@
 /*********************************************************************
- Tim Bass - This is an example of using NeoPixels Digital LED Strip 
+ This is an example of using NeoPixels Digital LED Strip 
  from Adafruit and a proximity censor for wiring up a bar so when
  someone stands in front of the bar the lights will turn on and when
  they leave the bar e.g. after preparing their drink, the lights
@@ -8,6 +8,8 @@
  lighting coming on.
 
  Updated Bar project to work on an Adafruit Trinket for installation.
+
+ Copyright (c) 2017 Tim Bass
 
  MIT license, check LICENSE for more information
  All text above, and the splash screen below must be included in

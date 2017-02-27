@@ -1,3 +1,16 @@
+/*********************************************************************
+ This is an example of using NeoPixel Digital LED Strip from Adafruit 
+ and reading an audio value from the LEFT_CHANNEL.  Based on the value
+ read it is then sent through a FFT in order to determine a color to
+ display for a low channel and a color to display for a higher channel.
+
+ Copyright (c) 2017 Tim Bass
+
+ MIT license, check LICENSE for more information
+ All text above, and the splash screen below must be included in
+ any redistribution
+*********************************************************************/
+
 #include <fix_fft.h>
 #include <SPI.h>
 #include <Adafruit_NeoPixel.h>

@@ -1,4 +1,15 @@
 /*********************************************************************
+ This is an example of using DotStar Digital LED Strip from Adafruit 
+ and running a digital audio input through a FFT in order to drive the
+ LED strip from music.  Effect 1 is a work light for when you need to
+ work but the other 3 effects are for when you want to have some fun.
+
+ Copyright (c) 2017 Tim Bass
+
+ MIT license, check LICENSE for more information
+ All text above, and the splash screen below must be included in
+ any redistribution
+ 
  This is an example for our nRF51822 based Bluefruit LE modules
 
  Pick one up today in the adafruit shop!
